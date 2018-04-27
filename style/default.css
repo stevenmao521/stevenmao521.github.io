@@ -300,7 +300,8 @@ filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#fafafa', endCo
 .work_item {
 	width:100%;
 	float:left;
-	padding:25px 0px 25px 0px;
+	padding:0px;
+        font-size:14px
 }
 
 .portfolio_item {
