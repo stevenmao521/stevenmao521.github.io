@@ -6,7 +6,7 @@
                 "code": "p_1",
                 "icon": "icon-th",
                 "child": [
-                    {"name": "Python基础","icon": "icon-minus-sign","code": "p_11","parentCode": "p_1",
+                    {"name": "Python基础","icon": "icon-plus-sign","code": "p_11","parentCode": "p_1",
                         "child": [
                             {"name": "01_初进python","code": "","icon": "","parentCode": "p_11","url": "./link/pythonjob/base/01.html","exp": "10","child": []},
                             {"name": "02_数字类型","code": "","icon": "","parentCode": "p_11","url": "./link/pythonjob/base/02.html","exp": "10","child": []},
@@ -26,7 +26,7 @@
                         ]
                     },
                     {
-                        "name": "Python进阶","icon": "","code": "p_12","parentCode": "p_1",
+                        "name": "Python进阶","icon": "icon-plus-sign","code": "p_12","parentCode": "p_1",
                         "child": [
                             {"name": "01_sys,os系统交互模块","code": "","icon": "","parentCode": "p_12","url": "./link/pythonjob/pro/01.html","exp": "10","child": []},
                             {"name": "02_csv读写","code": "","icon": "","parentCode": "p_12","url": "./link/pythonjob/pro/02.html","exp": "10","child": []},
@@ -42,7 +42,7 @@
                         ]
                     },
                     {
-                        "name": "Python练习","icon": "","code": "p_13","parentCode": "p_1",
+                        "name": "Python练习","icon": "icon-plus-sign","code": "p_13","parentCode": "p_1",
                         "child": [
                             {"name": "猜数游戏","code": "","icon": "","parentCode": "p_13","url": "./link/pythonjob/base/game_guess.html","exp": "10","child": []},
                             {"name": "密码验证","code": "","icon": "","parentCode": "p_13","url": "./link/pythonjob/exam/01.html","exp": "10","child": []},
@@ -57,7 +57,7 @@
                 "code": "p_2",
                 "icon": "icon-th",
                 "child": [
-                    {"name": "Ngnix","icon": "icon-minus-sign","code": "p_21","parentCode": "p_2",
+                    {"name": "Ngnix","icon": "icon-plus-sign","code": "p_21","parentCode": "p_2",
                         "child": [
                             {"type": "1","name": "nginx下载安装","code": "","icon": "","parentCode": "p_21","url": "https://www.jianshu.com/p/103a47316545","exp": "10","child": []},
                             {"type": "1","name": "nginx常用命令","code": "","icon": "","parentCode": "p_21","url": "https://www.jianshu.com/p/c552501ee234","exp": "10","child": []},
