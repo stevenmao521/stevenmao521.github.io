@@ -68,8 +68,62 @@
                 ]
             },
             {
-                "name": "随记",
+                "name": "PHP",
                 "code": "p_3",
+                "icon": "icon-th",
+                "child": [
+                    {"name": "Ngnix","icon": "icon-plus-sign","code": "p_21","parentCode": "p_2",
+                        "child": [
+                            {"type": "1","name": "nginx下载安装","code": "","icon": "","parentCode": "p_21","url": "https://www.jianshu.com/p/103a47316545","exp": "10","child": []},
+                            {"type": "1","name": "nginx常用命令","code": "","icon": "","parentCode": "p_21","url": "https://www.jianshu.com/p/c552501ee234","exp": "10","child": []},
+                            {"type": "1","name": "nginx配置文件conf","code": "","icon": "","parentCode": "p_21","url": "https://www.jianshu.com/p/e5cbda3f0e56","exp": "10","child": []},
+                            {"type": "1","name": "nginx常用配置","code": "","icon": "","parentCode": "p_21","url": "https://www.jianshu.com/p/3b6a0b5a7c37","exp": "10","child": []},
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Linux",
+                "code": "p_4",
+                "icon": "icon-th",
+                "child": [
+                    {"name": "Ngnix","icon": "icon-plus-sign","code": "p_21","parentCode": "p_2",
+                        "child": [
+                            {"type": "1","name": "nginx下载安装","code": "","icon": "","parentCode": "p_21","url": "https://www.jianshu.com/p/103a47316545","exp": "10","child": []},
+                            {"type": "1","name": "nginx常用命令","code": "","icon": "","parentCode": "p_21","url": "https://www.jianshu.com/p/c552501ee234","exp": "10","child": []},
+                            {"type": "1","name": "nginx配置文件conf","code": "","icon": "","parentCode": "p_21","url": "https://www.jianshu.com/p/e5cbda3f0e56","exp": "10","child": []},
+                            {"type": "1","name": "nginx常用配置","code": "","icon": "","parentCode": "p_21","url": "https://www.jianshu.com/p/3b6a0b5a7c37","exp": "10","child": []},
+                        ]
+                    }
+                ]
+            },
+            
+            {
+                "name": "微信公众号",
+                "code": "p_5",
+                "icon": "icon-th",
+                "child": [
+                    {"name": "公众号","icon": "icon-plus-sign","code": "p_51","parentCode": "p_5",
+                        "child": [
+                            {"type": "1","name": "微信接入","code": "","icon": "","parentCode": "p_51","url": "https://www.jianshu.com/p/4dfe66c05235","exp": "10","child": []},
+                            {"type": "1","name": "微信支付","code": "","icon": "","parentCode": "p_51","url": "https://www.jianshu.com/p/52e4cdba5a19","exp": "10","child": []},
+                            {"type": "1","name": "微信第三方平台授权流程","code": "","icon": "","parentCode": "p_51","url": "https://www.jianshu.com/p/75f63db42663","exp": "10","child": []},
+                            {"type": "1","name": "最新APP支付宝/微信支付接口","code": "","icon": "","parentCode": "p_51","url": "https://www.jianshu.com/p/9e4e6f072298","exp": "10","child": []},
+                            {"type": "1","name": "微信公众号开发保持用户登录状态思路","code": "","icon": "","parentCode": "p_51","url": "https://www.jianshu.com/p/7661c297ad0a","exp": "10","child": []},
+                            {"type": "1","name": "微信音频转mp3格式","code": "","icon": "","parentCode": "p_51","url": "https://www.jianshu.com/p/de979facdb95","exp": "10","child": []},
+                        ]
+                    },
+                    {"name": "企业微信","icon": "icon-plus-sign","code": "p_52","parentCode": "p_5",
+                        "child": [
+                            {"type": "1","name": "企业为新开发1.0","code": "","icon": "","parentCode": "p_52","url": "https://www.jianshu.com/p/d302f1dfe77b","exp": "10","child": []},
+                        ]
+                    }
+                ]
+            },
+            
+            {
+                "name": "微信小程序",
+                "code": "p_6",
                 "icon": "icon-th",
                 "child": [
                     {"name": "Git","icon": "icon-plus-sign","code": "p_31","parentCode": "p_3",
@@ -78,9 +132,20 @@
                         ]
                     }
                 ]
+            },
+            {
+                "name": "随记",
+                "code": "p_30",
+                "icon": "icon-th",
+                "child": [
+                    {"name": "Git","icon": "icon-plus-sign","code": "p_31","parentCode": "p_30",
+                        "child": [
+                            {"type": "1","name": "利用 SSH 完成 Git 与 GitHub 的绑定","code": "","icon": "","parentCode": "p_31","url": "https://www.jianshu.com/p/831a3dcb97e3","exp": "10","child": []},
+                        ]
+                    }
+                ]
             }
-    
-            ];
+        ];
 
 
     function tree(data) {
