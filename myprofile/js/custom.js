@@ -467,6 +467,7 @@ function centerContent() {
         
     if (window.innerWidth > 767) {
         content.css("top", (window.innerHeight - content.height()) / 2);
+        //content.css("top", 40);
     } else {
         content.css("top", 15);
     }
