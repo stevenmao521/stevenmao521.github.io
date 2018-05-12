@@ -50,7 +50,7 @@
                             {"name": "返回排除非唯一列表","code": "","icon": "","parentCode": "p_13","url": "./link/pythonjob/exam/03.html","exp": "10","child": []},
                             {"name": "字符串查找","code": "","icon": "","parentCode": "p_13","url": "./link/pythonjob/exam/04.html","exp": "10","child": []},
                         ]
-                    }
+                    },
                 ]
             }, {
                 "name": "服务器",
@@ -72,12 +72,9 @@
                 "code": "p_3",
                 "icon": "icon-th",
                 "child": [
-                    {"name": "Ngnix","icon": "icon-plus-sign","code": "p_21","parentCode": "p_2",
+                    {"name": "workerman","icon": "icon-plus-sign","code": "p_31","parentCode": "p_3",
                         "child": [
-                            {"type": "1","name": "nginx下载安装","code": "","icon": "","parentCode": "p_21","url": "https://www.jianshu.com/p/103a47316545","exp": "10","child": []},
-                            {"type": "1","name": "nginx常用命令","code": "","icon": "","parentCode": "p_21","url": "https://www.jianshu.com/p/c552501ee234","exp": "10","child": []},
-                            {"type": "1","name": "nginx配置文件conf","code": "","icon": "","parentCode": "p_21","url": "https://www.jianshu.com/p/e5cbda3f0e56","exp": "10","child": []},
-                            {"type": "1","name": "nginx常用配置","code": "","icon": "","parentCode": "p_21","url": "https://www.jianshu.com/p/3b6a0b5a7c37","exp": "10","child": []},
+                            {"type": "1","name": "01_http协议与websocket","code": "","icon": "","parentCode": "p_21","url": "https://www.jianshu.com/p/ab2b011f6994","exp": "10","child": []},
                         ]
                     }
                 ]
@@ -87,17 +84,16 @@
                 "code": "p_4",
                 "icon": "icon-th",
                 "child": [
-                    {"name": "Ngnix","icon": "icon-plus-sign","code": "p_21","parentCode": "p_2",
+                    {"name": "基础","icon": "icon-plus-sign","code": "p_41","parentCode": "p_4",
                         "child": [
-                            {"type": "1","name": "nginx下载安装","code": "","icon": "","parentCode": "p_21","url": "https://www.jianshu.com/p/103a47316545","exp": "10","child": []},
-                            {"type": "1","name": "nginx常用命令","code": "","icon": "","parentCode": "p_21","url": "https://www.jianshu.com/p/c552501ee234","exp": "10","child": []},
-                            {"type": "1","name": "nginx配置文件conf","code": "","icon": "","parentCode": "p_21","url": "https://www.jianshu.com/p/e5cbda3f0e56","exp": "10","child": []},
-                            {"type": "1","name": "nginx常用配置","code": "","icon": "","parentCode": "p_21","url": "https://www.jianshu.com/p/3b6a0b5a7c37","exp": "10","child": []},
+                            {"type": "1","name": "linux环境搭建","code": "","icon": "","parentCode": "p_41","url": "https://www.jianshu.com/p/a6c0831c1e20","exp": "10","child": []},
+                            {"type": "1","name": "文件以及文件系统","code": "","icon": "","parentCode": "p_41","url": "https://www.jianshu.com/p/b16dd1fbea23","exp": "10","child": []},
+                            {"type": "1","name": "常用命令","code": "","icon": "","parentCode": "p_41","url": "https://www.jianshu.com/p/6290ca75e67f","exp": "10","child": []},
+                            {"type": "1","name": "vim常用快捷键","code": "","icon": "","parentCode": "p_41","url": "https://www.jianshu.com/p/b41d33cdeadd","exp": "10","child": []},
                         ]
                     }
                 ]
             },
-            
             {
                 "name": "微信公众号",
                 "code": "p_5",
@@ -120,7 +116,6 @@
                     }
                 ]
             },
-            
             {
                 "name": "微信小程序",
                 "code": "p_6",
@@ -141,6 +136,7 @@
                     {"name": "Git","icon": "icon-plus-sign","code": "p_31","parentCode": "p_30",
                         "child": [
                             {"type": "1","name": "利用 SSH 完成 Git 与 GitHub 的绑定","code": "","icon": "","parentCode": "p_31","url": "https://www.jianshu.com/p/831a3dcb97e3","exp": "10","child": []},
+                            {"type": "1","name": "Nosql小谈","code": "","icon": "","parentCode": "p_31","url": "https://www.jianshu.com/p/864b80516127","exp": "10","child": []},
                         ]
                     }
                 ]
