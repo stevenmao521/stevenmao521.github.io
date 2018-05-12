@@ -66,7 +66,21 @@
                         ]
                     }
                 ]
-            }];
+            },
+            {
+                "name": "随记",
+                "code": "p_3",
+                "icon": "icon-th",
+                "child": [
+                    {"name": "Git","icon": "icon-plus-sign","code": "p_31","parentCode": "p_3",
+                        "child": [
+                            {"type": "1","name": "利用 SSH 完成 Git 与 GitHub 的绑定","code": "","icon": "","parentCode": "p_31","url": "https://www.jianshu.com/p/831a3dcb97e3","exp": "10","child": []},
+                        ]
+                    }
+                ]
+            }
+    
+            ];
 
 
     function tree(data) {
