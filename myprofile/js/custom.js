@@ -503,7 +503,7 @@ $(document).on('ready', function() {
     },4000);
 
 
-    initMap();
+    //initMap();
 
     $('.tabs').tabslet({
       mouseevent: 'click',
