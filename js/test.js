@@ -100,7 +100,7 @@
                     },
                     {"name": "linux操作Mysql","icon": "icon-plus-sign","code": "p_42","parentCode": "p_4",
                         "child": [
-                            {"type": "1","name": "mysql安装与常用命令01","code": "","icon": "","parentCode": "p_41","url": "https://www.jianshu.com/p/1cc64f58172c","exp": "10","child": []},
+                            {"type": "1","name": "mysql安装与常用命令01","code": "","icon": "","parentCode": "p_42","url": "https://www.jianshu.com/p/1cc64f58172c","exp": "10","child": []},
                         ]
                     }
                 ]
