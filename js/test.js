@@ -51,6 +51,12 @@
                             {"name": "字符串查找","code": "","icon": "","parentCode": "p_13","url": "./link/pythonjob/exam/04.html","exp": "10","child": []},
                         ]
                     },
+                    {
+                        "name": "Python进程与线程","icon": "icon-plus-sign","code": "p_14","parentCode": "p_1",
+                        "child": [
+                            
+                        ]
+                    },
                 ]
             }, {
                 "name": "服务器",
