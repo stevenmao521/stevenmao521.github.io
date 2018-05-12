@@ -80,7 +80,7 @@
                 "child": [
                     {"name": "workerman","icon": "icon-plus-sign","code": "p_31","parentCode": "p_3",
                         "child": [
-                            {"type": "1","name": "01_http协议与websocket","code": "","icon": "","parentCode": "p_21","url": "https://www.jianshu.com/p/ab2b011f6994","exp": "10","child": []},
+                            {"type": "1","name": "01_http协议与websocket","code": "","icon": "","parentCode": "p_31","url": "https://www.jianshu.com/p/ab2b011f6994","exp": "10","child": []},
                         ]
                     }
                 ]
@@ -139,10 +139,10 @@
                 "code": "p_30",
                 "icon": "icon-th",
                 "child": [
-                    {"name": "Git","icon": "icon-plus-sign","code": "p_31","parentCode": "p_30",
+                    {"name": "Git","icon": "icon-plus-sign","code": "p_301","parentCode": "p_30",
                         "child": [
-                            {"type": "1","name": "利用 SSH 完成 Git 与 GitHub 的绑定","code": "","icon": "","parentCode": "p_31","url": "https://www.jianshu.com/p/831a3dcb97e3","exp": "10","child": []},
-                            {"type": "1","name": "Nosql小谈","code": "","icon": "","parentCode": "p_31","url": "https://www.jianshu.com/p/864b80516127","exp": "10","child": []},
+                            {"type": "1","name": "利用 SSH 完成 Git 与 GitHub 的绑定","code": "","icon": "","parentCode": "p_301","url": "https://www.jianshu.com/p/831a3dcb97e3","exp": "10","child": []},
+                            {"type": "1","name": "Nosql小谈","code": "","icon": "","parentCode": "p_301","url": "https://www.jianshu.com/p/864b80516127","exp": "10","child": []},
                         ]
                     }
                 ]
