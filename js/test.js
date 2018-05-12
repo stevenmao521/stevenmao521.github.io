@@ -127,7 +127,7 @@
                 "code": "p_6",
                 "icon": "icon-th",
                 "child": [
-                    {"name": "Git","icon": "icon-plus-sign","code": "p_61","parentCode": "p_6",
+                    {"name": "环境搭建","icon": "icon-plus-sign","code": "p_61","parentCode": "p_6",
                         "child": [
                             {"type": "1","name": "微信小程序_1.0 本地tp5环境搭建_用户登录校验","code": "","icon": "","parentCode": "p_61","url": "https://www.jianshu.com/p/911ff29e4317","exp": "10","child": []},
                         ]
