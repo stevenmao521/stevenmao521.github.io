@@ -154,6 +154,22 @@
                 ]
             },
             {
+                "name": "数据库",
+                "code": "p_7",
+                "icon": "icon-th",
+                "child": [
+                    {"name": "Mysql","icon": "icon-plus-sign","code": "p_71","parentCode": "p_7",
+                        "child": []
+                    },
+                    {"name": "Mongdb","icon": "icon-plus-sign","code": "p_72","parentCode": "p_7",
+                        "child": []
+                    },
+                    {"name": "时序influxdb","icon": "icon-plus-sign","code": "p_72","parentCode": "p_7",
+                        "child": []
+                    }
+                ]
+            },
+            {
                 "name": "随记",
                 "code": "p_30",
                 "icon": "icon-th",
