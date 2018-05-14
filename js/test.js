@@ -102,7 +102,21 @@
                         "child": [
                             {"type": "1","name": "mysql安装与常用命令01","code": "","icon": "","parentCode": "p_42","url": "https://www.jianshu.com/p/1cc64f58172c","exp": "10","child": []},
                         ]
-                    }
+                    },
+                    {"name": "Shell","icon": "icon-plus-sign","code": "p_43","parentCode": "p_4",
+                        "child": [
+                            {"type": "1","name": "01shell","code": "","icon": "","parentCode": "p_43","url": "https://www.jianshu.com/p/808a09b28192","exp": "10","child": []},
+                            {"type": "1","name": "02shell变量","code": "","icon": "","parentCode": "p_43","url": "https://www.jianshu.com/p/46a640683edc","exp": "10","child": []},
+                            {"type": "1","name": "03shell传递参数","code": "","icon": "","parentCode": "p_43","url": "https://www.jianshu.com/p/9bb758a4a182","exp": "10","child": []},
+                            {"type": "1","name": "04shell数组","code": "","icon": "","parentCode": "p_43","url": "https://www.jianshu.com/p/5bf439e3be4a","exp": "10","child": []},
+                            {"type": "1","name": "05运算符","code": "","icon": "","parentCode": "p_43","url": "https://www.jianshu.com/p/eba623637725","exp": "10","child": []},
+                            {"type": "1","name": "06shell echo","code": "","icon": "","parentCode": "p_43","url": "https://www.jianshu.com/p/2a086bb8c77c","exp": "10","child": []},
+                            {"type": "1","name": "07shell printf格式化输出","code": "","icon": "","parentCode": "p_43","url": "https://www.jianshu.com/p/36f22f346950","exp": "10","child": []},
+                            {"type": "1","name": "08shell test","code": "","icon": "","parentCode": "p_43","url": "https://www.jianshu.com/p/548630e72038","exp": "10","child": []},
+                            {"type": "1","name": "09流程控制","code": "","icon": "","parentCode": "p_43","url": "https://www.jianshu.com/p/f87998c30f83","exp": "10","child": []},
+                            {"type": "1","name": "10shell函数","code": "","icon": "","parentCode": "p_43","url": "https://www.jianshu.com/p/15c22a0471e6","exp": "10","child": []},
+                        ]
+                    },
                 ]
             },
             {
