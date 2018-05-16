@@ -175,6 +175,18 @@
                 ]
             },
             {
+                "name": "Git",
+                "code": "p_8",
+                "icon": "icon-th",
+                "child": [
+                    {"name": "配置","icon": "icon-plus-sign","code": "p_81","parentCode": "p_8",
+                        "child": [
+                            {"type": "1","name": "git本地服务器搭建&web同步","code": "","icon": "","parentCode": "p_81","url": "https://www.jianshu.com/p/7130dca9fe11","exp": "10","child": []},
+                        ]
+                    }
+                ]
+            },
+            {
                 "name": "随记",
                 "code": "p_30",
                 "icon": "icon-th",
