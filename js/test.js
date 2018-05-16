@@ -117,7 +117,7 @@
                             {"type": "1","name": "10shell函数","code": "","icon": "","parentCode": "p_43","url": "https://www.jianshu.com/p/15c22a0471e6","exp": "10","child": []},
                         ]
                     },
-                    {"name": "php7.0+nginx1.13","icon": "icon-plus-sign","code": "p_44","parentCode": "p_4",
+                    {"name": "php配置","icon": "icon-plus-sign","code": "p_44","parentCode": "p_4",
                         "child": [
                             {"type": "1","name": "php7.0+nginx1.13","code": "","icon": "","parentCode": "p_44","url": "https://www.jianshu.com/p/9dabfb3bf739","exp": "10","child": []},
                         ]
