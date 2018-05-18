@@ -82,6 +82,11 @@
                         "child": [
                             {"type": "1","name": "01_http协议与websocket","code": "","icon": "","parentCode": "p_31","url": "https://www.jianshu.com/p/ab2b011f6994","exp": "10","child": []},
                         ]
+                    },
+                    {"name": "edusoho二次开发","icon": "icon-plus-sign","code": "p_32","parentCode": "p_3",
+                        "child": [
+                            {"type": "1","name": "01_环境搭建安装配置","code": "","icon": "","parentCode": "p_32","url": "https://www.jianshu.com/p/2d34c1310341","exp": "10","child": []},
+                        ]
                     }
                 ]
             },
