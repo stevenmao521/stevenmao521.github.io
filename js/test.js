@@ -200,6 +200,7 @@
                         "child": [
                             {"type": "1","name": "Doctrine DQL","code": "","icon": "","parentCode": "p_91","url": "https://www.doctrine-project.org/projects/doctrine-orm/en/latest/reference/dql-doctrine-query-language.htmlhttps://www.doctrine-project.org/projects/doctrine-orm/en/latest/reference/dql-doctrine-query-language.html","exp": "10","child": []},
                             {"type": "1","name": "Doctrine's Query Builder","code": "","icon": "","parentCode": "p_91","url": "https://www.doctrine-project.org/projects/doctrine-orm/en/latest/reference/query-builder.html","exp": "10","child": []},
+                            {"type": "1","name": "Doctrine's映射字段类型","code": "","icon": "","parentCode": "p_91","url": "https://www.doctrine-project.org/projects/doctrine-orm/en/latest/reference/basic-mapping.html#property-mapping","exp": "10","child": []},
                         ]
                     }
                 ]
